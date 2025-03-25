@@ -3,7 +3,7 @@
 I mostly work with REST APIs, primarily in Python, including websites using Flask.<br>
 I can set up Linux servers (I have my own server running Debian), work with certificates, domains, subdomains, and protocols like SSH and RDP, and I have a good understanding of network configuration.<br>
 I work with Docker.<br>
-Apart from programming, I'm interested in Arduino.<br>
+Apart from programming, I'm interested in Arduino and 3D printing.<br>
 Currently, I'm learning React, writing and studying function and UI tests, and practicing with Vue.<br>
 I know the basics of mobile app development, but I'm still in the learning phase.<br>
 
@@ -12,7 +12,7 @@ I know the basics of mobile app development, but I'm still in the learning phase
 Чаще работаю с rest API в основном python, сайтами в том числе на flask<br>
 Умею настраивать сервера на linux у самого есть сервер на Debian, работать с сертификатами, доменами, поддоменами, протоколами SSH RDP, и могу неплохо настроить сеть.<br>
 Работаю с docker<br>
-Помимо программирования увлекаюсь Adruino.<br>
+Помимо программирования увлекаюсь Adruino и 3D печатью<br>
 В данный момент изучаю React, пишу и изучаю тесты функций и интерфейса и практикуюсь с Vue<br>
 Знаю основы разработки мобильных приложений но пока так же только изучаю
 
@@ -25,8 +25,8 @@ I know the basics of mobile app development, but I'm still in the learning phase
 By nature, I’m calm—though a bit tired—but full of energy :) / Сам по себе спокойный<br>Немного уставший но с кучей энергии :)
 
 ## 🌐 Social Networks / Соцсети:  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@redabyq)  
-[![Telegram](https://img.shields.io/badge/Telegram-%20darkcyan?style=flat&logo=telegram)](https://t.me/redabyq)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hackinggod6046)  
+[![Telegram](https://img.shields.io/badge/Telegram-%20darkcyan?style=flat&logo=telegram)](https://t.me/Nikolay66599)  
 
 ## 💻 What I can work with / В чём так или иначе могу:  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
@@ -36,20 +36,13 @@ By nature, I’m calm—though a bit tired—but full of energy :) / Сам по
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E)  
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
 
 ## 📊 GitHub Stats / GitHub Стата:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redabyq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redabyq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jammeren2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jammeren2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
