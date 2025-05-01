@@ -24,10 +24,6 @@ I know the basics of mobile app development, but I'm still in the learning phase
 
 By nature, I’m calm—though a bit tired—but full of energy :) / Сам по себе спокойный<br>Немного уставший но с кучей энергии :)
 
-## 🌐 Social Networks / Соцсети:  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hackinggod6046)  
-[![Telegram](https://img.shields.io/badge/Telegram-%20darkcyan?style=flat&logo=telegram)](https://t.me/Nikolay66599)  
-
 ## 💻 What I can work with / В чём так или иначе могу:  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
